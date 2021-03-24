@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T07:33:46.345Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="HM7myjWX62KFj1YF0gzT" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T08:31:50.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="AkQaI7rrBBJLC0nc7w_p" version="14.5.1" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="2115" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1821" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pLz6rOt4dXthbTl6BxcP-236" value="优秀&#xa;挑战值/90-120分" style="rounded=1;strokeColor=none;shadow=1;fontStyle=0;opacity=40;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=27;fillColor=#0000FF;fontColor=#0000FF;whiteSpace=wrap;spacingTop=0;" parent="1" vertex="1">
+        <mxCell id="pLz6rOt4dXthbTl6BxcP-236" value="优秀&#xa;挑战值/95-100分" style="rounded=1;strokeColor=none;shadow=1;fontStyle=0;opacity=40;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=27;fillColor=#0000FF;fontColor=#0000FF;whiteSpace=wrap;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="-100" y="950" width="1680" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="pLz6rOt4dXthbTl6BxcP-235" value="良好&#xa;目标值-挑战值/70-90 分" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;opacity=30;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=27;fillColor=#3333FF;fontColor=#3333FF;" parent="1" vertex="1">
+        <mxCell id="pLz6rOt4dXthbTl6BxcP-235" value="良好&#xa;目标值-挑战值/85-95 分" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;opacity=30;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=27;fillColor=#3333FF;fontColor=#3333FF;" parent="1" vertex="1">
           <mxGeometry x="-90" y="640" width="1680" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="pLz6rOt4dXthbTl6BxcP-234" value="及格&#xa;门槛值-目标值/60-70 分" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;opacity=20;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=27;fillColor=#6666FF;fontColor=#6666FF;" parent="1" vertex="1">
+        <mxCell id="pLz6rOt4dXthbTl6BxcP-234" value="及格&#xa;门槛值-目标值/60-85 分" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;opacity=20;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontSize=27;fillColor=#6666FF;fontColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="-90" y="380" width="1680" height="237" as="geometry" />
         </mxCell>
         <mxCell id="2" value="绩效指标" style="whiteSpace=wrap;rounded=1;shadow=1;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24;fillColor=#9933FF;" parent="1" vertex="1">
@@ -37,8 +37,8 @@
         <mxCell id="23" value="1. 需求清晰明了&#xa;&#xa;2. 迭代如期完满完成&#xa;&#xa;3.问题及时反馈，高效简洁的沟通减少不必要的返工" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="70" y="400" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="25" value="1. 代码优雅规范&#xa;&#xa;2. 逻辑及思路清晰&#xa;&#xa;3. 化繁为简，模块清晰独立&#xa;&#xa;4.考虑用户体验，实现友好交互" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="70" y="691" width="160" height="139" as="geometry" />
+        <mxCell id="25" value="1. 代码优雅规范&#xa;&#xa;2. 逻辑及思路清晰&#xa;&#xa;3. 化繁为简，模块清晰独立&#xa;&#xa;4.考虑用户体验，实现友好交互&#xa;&#xa;5. bugFix 高效且迅速，且无附带 bug &#xa;&#xa;6. 严重级 bug/feature 的值小（&lt;= 5%）,中级 bug/feature 的值小（&lt;= 5-10%）" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="60" y="670.5" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="27" value="1. 可读性性强，扩展性强，健壮性强&#xa;&#xa;2.方便自己及他人使用及理解&#xa;&#xa;3. 高效解决疑难且关键问题&#xa;&#xa;4. 抽象出高频或核心的业务组件&#xa;&#xa;" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="970" width="150" height="180" as="geometry" />
