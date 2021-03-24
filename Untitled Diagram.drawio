@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2021-03-24T07:53:27.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="4lWgW1XqqK0OlfCL_pj1" version="14.5.1" type="github">
+  <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
+    <mxGraphModel dx="946" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F4htfeOzbknWEluDL0Yi-7" value="质量" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="470" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="F4htfeOzbknWEluDL0Yi-9" value="" style="endArrow=none;html=1;exitX=0;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.998;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;opacity=50;jumpStyle=arc;dashed=1;" edge="1" parent="1" source="F4htfeOzbknWEluDL0Yi-7" target="F4htfeOzbknWEluDL0Yi-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="510" as="sourcePoint" />
+            <mxPoint x="480" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F4htfeOzbknWEluDL0Yi-10" value="效率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
