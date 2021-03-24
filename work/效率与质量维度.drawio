@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T06:13:02.883Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="_NcRHTZX0xXLc550-f72" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T06:28:41.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="TIfO4PPffuUAkQ7VxGJq" version="14.5.1" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="2531" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
           <mxGeometry x="640" y="400" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="52" value="1. 自己及他人的撇脚或晦涩代码优化及重构&#xa;" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;fillColor=#CCFF99;fontColor=#4D4D4D;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="640" y="691" width="120" height="199" as="geometry" />
+          <mxGeometry x="640" y="750" width="120" height="69" as="geometry" />
         </mxCell>
         <mxCell id="54" value="1. npm 私服的搭建&#xa;&#xa;2. 昂立前端开发脚手架搭建&#xa;&#xa;3.CICD 系统的贡献&#xa;&#xa;4. 微前端的探索及实践&#xa;&#xa;5. PC 端，移动端，bridge 包模版的创建及优化" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;fillColor=#CCFF99;fontColor=#4D4D4D;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="640" y="1000" width="140" height="200" as="geometry" />
@@ -226,11 +226,11 @@
         <mxCell id="140" value="1. 指出PRD，API，UI，QA 文档中的不合理之处，并给出解决方案&#xa;&#xa;2. 同理心基础：具备所沟通对象的知识体系，并对其提出良好建议 " style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;fontColor=#4D4D4D;fillColor=#CCFF99;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="1010" y="400" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="142" value="1. 贡献 npm  包&#xa;2. webpack，gulp 配置&#xa;3.升级优化 jekens，&#xa;将 docker 为我所" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;fontColor=#4D4D4D;fillColor=#CCFF99;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="691" width="120" height="89" as="geometry" />
+        <mxCell id="142" value="1. 贡献 npm  包&#xa;2. webpack，gulp 配置&#xa;3.升级优化 jekens，&#xa;将 docker 为我所&#xa;4. 升级优化 nginx等 yml 或 shell 配置" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;fontColor=#4D4D4D;fillColor=#CCFF99;verticalAlign=top;align=left;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="691" width="120" height="119" as="geometry" />
         </mxCell>
         <mxCell id="143" value="1.  制定跳一跳能实现的 OKR，并能实现至少 8 成" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;fontColor=#4D4D4D;fillColor=#CCFF99;verticalAlign=top;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="830" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="830" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="144" value="1. 小组，部门会议优秀 idea 的产出&#xa;&#xa;2. 评审流程及团队工作结果因所提建议得到漏洞减少，效率提升，质量提升&#xa;&#xa;3. 站在后端，产品等角度考虑问题，并使对方信服" style="whiteSpace=wrap;rounded=1;strokeColor=none;shadow=1;fontStyle=0;fontColor=#4D4D4D;fillColor=#CCFF99;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="1020" y="1010" width="120" height="170" as="geometry" />
